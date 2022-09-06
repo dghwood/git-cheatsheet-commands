@@ -29,3 +29,12 @@
 - `gh push -u origin <branch name>`
     - Note: the `-u` means next time you can just do `gh push`
     - Note: if you want to change the branch name use `git branch -M <new name>`
+
+## Delete local 
+
+- Just delete the directory (including the .git folder) 
+
+## Start from scratch 
+
+- `git clone <github url>`
+    - this will create a git folder called `<repo name>` 
