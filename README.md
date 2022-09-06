@@ -15,3 +15,13 @@
     - This can clone the repo locally, and will set your git remote orgin
 - `git remote -v`
     - This will list your remote origins on github 
+
+## Add files & commit 
+
+- `gh add <files>`
+
+- `gh commit -m "<message>"`
+
+## Push to Repo 
+
+- `gh push`
