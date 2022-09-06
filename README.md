@@ -26,4 +26,4 @@
 
 ## Push to Repo 
 
-- `gh push origin main`
+- `gh push -u origin main`
