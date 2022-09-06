@@ -26,4 +26,6 @@
 
 ## Push to Repo 
 
-- `gh push -u origin main`
+- `gh push -u origin <branch name>`
+
+- Note: if you want to change the branch name use `git branch -M <new name>`
