@@ -22,6 +22,8 @@
 
 - `gh commit -m "<message>"`
 
+- Alternatively you can simplify to `gh commit -a -m "<message>"`
+
 ## Push to Repo 
 
 - `gh push`
